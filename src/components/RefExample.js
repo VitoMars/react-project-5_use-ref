@@ -20,7 +20,7 @@ const RefExample = () => {
         Vai in basso
       </button>
       <div className="my-5 mx-auto" style={{ height: "100vh" }}></div>
-      <h1 ref={ref}>Use Ref</h1>
+      <h1 ref={ref}>Elemento con use Ref</h1>
       <div className="my-5 mx-auto" style={{ height: "100vh" }}></div>
     </div>
   );
